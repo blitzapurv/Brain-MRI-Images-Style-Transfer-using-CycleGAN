@@ -1,4 +1,4 @@
-# Brain-MRI-Images-Style-Transfer-using-CycleGAN
+# Brain MRI Images, Style Transfer using CycleGAN
 
 A deep learning solution to generate artificial MRI images of different contrast levels from existing MRI scans. This will help to provide a better diagnosis with the help of an additional image.
 
